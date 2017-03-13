@@ -1,0 +1,11 @@
+\\Mac\Home\Desktop\MDIProject1\MDIProject1\bin\Debug\MDIProject1.exe.config
+\\Mac\Home\Desktop\MDIProject1\MDIProject1\bin\Debug\MDIProject1.exe
+\\Mac\Home\Desktop\MDIProject1\MDIProject1\bin\Debug\MDIProject1.pdb
+\\Mac\Home\Desktop\MDIProject1\MDIProject1\bin\Debug\MDIProject1.xml
+\\Mac\Home\Desktop\MDIProject1\MDIProject1\obj\Debug\MDIProject1.Form1.resources
+\\Mac\Home\Desktop\MDIProject1\MDIProject1\obj\Debug\MDIProject1.MDIParent1.resources
+\\Mac\Home\Desktop\MDIProject1\MDIProject1\obj\Debug\MDIProject1.Resources.resources
+\\Mac\Home\Desktop\MDIProject1\MDIProject1\obj\Debug\MDIProject1.vbproj.GenerateResource.Cache
+\\Mac\Home\Desktop\MDIProject1\MDIProject1\obj\Debug\MDIProject1.exe
+\\Mac\Home\Desktop\MDIProject1\MDIProject1\obj\Debug\MDIProject1.xml
+\\Mac\Home\Desktop\MDIProject1\MDIProject1\obj\Debug\MDIProject1.pdb
